@@ -1,0 +1,3 @@
+Project 02 - E-Wallet App 
+Objective: DOM + LocalStorage
+Outcome: 'Add to cart' prototyping  
